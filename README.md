@@ -1,4 +1,4 @@
-# git-
+# git-cource
 for Elzero Web School
 
 
